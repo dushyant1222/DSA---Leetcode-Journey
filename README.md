@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0198-house-robber) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
