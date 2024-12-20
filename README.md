@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0069-sqrtx) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Dynamic Programming
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
