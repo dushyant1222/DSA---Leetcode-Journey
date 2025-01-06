@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0441-arranging-coins) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1372-check-if-it-is-a-good-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0441-arranging-coins) |
 ## Number Theory
 |  |
 | ------- |
