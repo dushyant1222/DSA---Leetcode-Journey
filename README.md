@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1372-check-if-it-is-a-good-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Number Theory
 |  |
 | ------- |
@@ -82,18 +84,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0268-missing-number) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0268-missing-number) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
 | ------- |
