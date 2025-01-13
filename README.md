@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0344-reverse-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0374-guess-number-higher-or-lower) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
