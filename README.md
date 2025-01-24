@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0441-arranging-coins) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
