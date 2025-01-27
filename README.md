@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0898-transpose-matrix](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0898-transpose-matrix) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1372-check-if-it-is-a-good-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -171,6 +172,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1677-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
