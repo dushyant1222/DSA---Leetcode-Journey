@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0238-product-of-array-except-self) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0041-first-missing-positive) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0169-majority-element) |
 ## Interactive
 |  |
 | ------- |
@@ -186,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0898-transpose-matrix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
