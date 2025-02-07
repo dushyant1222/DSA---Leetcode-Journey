@@ -10,12 +10,8 @@ class Solution {
                 int temp = nums[i] + nums[start] + nums[end];
                 if(Math.abs(temp - target) < Math.abs(min - target)) min = temp;
                 if(temp == target) return temp;
-                else if(target < temp){
-                    end--; while(start < end && nums[end] == nums[end + 1]) end--;
-                }
-                else{
-                    start++; while(start < end && nums[start] == nums[start - 1]) start++;
-                }
+                else if(target < temp) --end;
+                else ++start;
             }
         }
         return min;
