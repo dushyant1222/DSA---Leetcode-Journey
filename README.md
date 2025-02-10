@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0898-transpose-matrix) |
+| [0924-fair-candy-swap](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0924-fair-candy-swap) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1372-check-if-it-is-a-good-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0924-fair-candy-swap](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0924-fair-candy-swap](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0924-fair-candy-swap](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Prefix Sum
