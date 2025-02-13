@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Bit Manipulation
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [0924-fair-candy-swap](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0958-sort-array-by-parity-ii) |
