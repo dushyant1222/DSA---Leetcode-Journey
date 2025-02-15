@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1019-squares-of-a-sorted-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1372-check-if-it-is-a-good-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Prefix Sum
