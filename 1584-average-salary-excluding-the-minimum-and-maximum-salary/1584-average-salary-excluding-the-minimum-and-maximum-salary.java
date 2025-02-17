@@ -6,7 +6,6 @@ class Solution {
             sum += salary[i];
             count++;
         }
-        double ans = sum/count;
-        return ans;
+        return sum/count;
     }
 }
