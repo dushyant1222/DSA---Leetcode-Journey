@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0958-sort-array-by-parity-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1256-rank-transform-of-an-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [1018-largest-perimeter-triangle](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1372-check-if-it-is-a-good-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1372-check-if-it-is-a-good-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0455-assign-cookies) |
+| [1018-largest-perimeter-triangle](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Bit Manipulation
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0958-sort-array-by-parity-ii) |
+| [1018-largest-perimeter-triangle](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1468-check-if-n-and-its-double-exist) |
