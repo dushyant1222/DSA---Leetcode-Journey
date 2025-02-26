@@ -2,10 +2,10 @@ class Solution {
     public List<Integer> majorityElement(int[] nums) {
         int n = nums.length;
         int count1 =  0, count2 = 0;
-        Integer maj1 = null, maj2 = null;
+        int maj1 = Integer.MIN_VALUE, maj2 = Integer.MIN_VALUE;
         for(int i : nums){
-            if(maj1 != null && i == maj1) count1++;
-            else if(maj2 != null && i == maj2) count2++;
+            if(i == maj1) count1++;
+            else if(i == maj2) count2++;
             else  if(count1 == 0){
                 count1 = 1;
                 maj1 = i;
