@@ -29,6 +29,6 @@ class Solution {
             else nums[k++] = rightarr[j++];
         }
         while(i < n1) nums[k++] = leftarr[i++];
-        while(j < n2) nums[k++] = rightarr[j++];
+        while(i < n2) nums[k++] = rightarr[j++];
     }
 }
