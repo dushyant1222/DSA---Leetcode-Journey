@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0217-contains-duplicate) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0898-transpose-matrix) |
