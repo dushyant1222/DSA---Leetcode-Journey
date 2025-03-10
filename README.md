@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0924-fair-candy-swap) |
 | [1256-rank-transform-of-an-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1256-rank-transform-of-an-array) |
@@ -318,4 +320,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0948-sort-an-array) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
