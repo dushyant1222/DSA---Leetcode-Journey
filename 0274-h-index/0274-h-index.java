@@ -1,12 +1,17 @@
 class Solution {
     public int hIndex(int[] citations) {
-        Integer[] sortedarr = Arrays.stream(citations).boxed().toArray(Integer[]::new);
-        Arrays.sort(sortedarr, Collections.reverseOrder());
-        int idx = 1;
-        for(int i = 0 ; i < sortedarr.length; i++){
-            if(sortedarr[i] >= idx) idx++;
-            else break;
+        int[] sortedarr = new int[citations.length + 1];
+        
+        for(int c: citations){
+            if(c>= citations.length) sortedarr[citations.length]++;
+            else sortedarr[c]++;
         }
-        return idx -1;
+
+        int idx = 0;
+        for(int i = citations.length; i>=0; i--){
+            idx += sortedarr[i];
+            if(idx >= i) return i;
+        }
+        return 0;
     }
 }
