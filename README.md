@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0506-relative-ranks) |
