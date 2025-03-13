@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0344-reverse-string) |
+| [0742-to-lower-case](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0742-to-lower-case) |
 ## Linked List
 |  |
 | ------- |
