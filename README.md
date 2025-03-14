@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1677-matrix-diagonal-sum](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1677-matrix-diagonal-sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2047-find-a-peak-element-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/2047-find-a-peak-element-ii) |
 ## Math
 |  |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0742-to-lower-case) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Linked List
 |  |
 | ------- |
