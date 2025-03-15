@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0742-to-lower-case) |
+| [1205-defanging-an-ip-address](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Linked List
 |  |
