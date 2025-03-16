@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0268-missing-number) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0073-set-matrix-zeroes) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0242-valid-anagram) |
