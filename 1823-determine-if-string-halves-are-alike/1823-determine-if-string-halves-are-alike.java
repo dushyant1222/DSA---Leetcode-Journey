@@ -1,20 +1,11 @@
-public class Solution {
-    public boolean halvesAreAlike(String s) {
-        Set<Character> vowels = new HashSet<>();
-        vowels.add('a'); vowels.add('e'); vowels.add('i'); vowels.add('o'); vowels.add('u');
-        vowels.add('A'); vowels.add('E'); vowels.add('I'); vowels.add('O'); vowels.add('U');
-
-        int vowelsCount = 0;
-        int midIndex = s.length() / 2;
-
-        for (int i = 0; i < midIndex; i++) {
-            char charA = s.charAt(i);
-            char charB = s.charAt(midIndex + i);
-            if (vowels.contains(charA)) vowelsCount++;
-            if (vowels.contains(charB)) vowelsCount--;
+class Solution {
+    String vowels = "aeiouAEIOU";
+    public boolean halvesAreAlike(String S) {
+        int mid = S.length() / 2, ans = 0;
+        for (int i = 0, j = mid; i < mid; i++, j++) {
+            if (vowels.indexOf(S.charAt(i)) >= 0) ans++;
+            if (vowels.indexOf(S.charAt(j)) >= 0) ans--;
         }
-
-        return vowelsCount == 0;
+        return ans == 0;
     }
 }
-
