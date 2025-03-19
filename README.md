@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0088-merge-sorted-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0242-valid-anagram) |
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0496-next-greater-element-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
