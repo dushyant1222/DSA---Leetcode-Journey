@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1970-sorting-the-sentence](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1970-sorting-the-sentence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1970-sorting-the-sentence](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1970-sorting-the-sentence) |
 ## Linked List
 |  |
 | ------- |
