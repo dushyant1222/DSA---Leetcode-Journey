@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1205-defanging-an-ip-address) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1651-shuffle-string](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1797-goal-parser-interpretation) |
