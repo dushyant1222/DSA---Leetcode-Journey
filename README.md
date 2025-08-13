@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1677-matrix-diagonal-sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1899-count-items-matching-a-rule](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1899-count-items-matching-a-rule) |
 | [2047-find-a-peak-element-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/2047-find-a-peak-element-ii) |
 ## Math
 |  |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1899-count-items-matching-a-rule](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1899-count-items-matching-a-rule) |
 | [1970-sorting-the-sentence](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/1970-sorting-the-sentence) |
 ## Linked List
 |  |
