@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0189-rotate-array) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/dushyant1222/DSA---Leetcode-Journey/tree/master/0179-largest-number) |
